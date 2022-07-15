@@ -1,4 +1,5 @@
 long long cbrt(int n)
 {
-    return n * n * n;
+    long long k = n * n * n;
+    return k;
 }
